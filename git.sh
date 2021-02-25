@@ -78,7 +78,7 @@ pkg update && pkg upgrade
 pkg install git
 pkg install wget
 git clone https://github.com/TeamBdg-BoyDasGalaxias/200
-cd 200
+cd liki
 pkg install unzip
 pkg install nodejs
 pkg inatall ffmpeg
