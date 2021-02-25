@@ -4,7 +4,7 @@ hijau="\033[1;32m"
 putih="\033[1;37m"
 biru="\033[0;34m"
 kuning="\033[1;33m"
-paku="darkzin"
+paku="teambdg"
 until [ "$pass" = "$paku" ]
 do
 clear
@@ -23,7 +23,7 @@ echo "          |     $merah----- $putih   |"
 echo "           ==============" $merah
 echo "     ____________"
 echo " ___| Ferramenta By __| " $putih
-echo "|  Dark Yt__|"
+echo "|    Bdg  __|"
 echo "|__________| $merah"
 echo "                     _________________________"
 echo "                    | Ferramenta de login 1•  |"
@@ -48,11 +48,11 @@ echo "          |     $merah----- $putih   |"
 echo "           ==============" $merah
 echo "     ____________"
 echo " ___| Ferramenta By __| " $putih
-echo "|  Dark Yt__|"
+echo "|    Bdg  __|"
 echo "|__________|"
 echo "$hijau"
 echo "     ______         ______"
-echo "    |      | Darkbot |    |"
+echo "    |      | ƬΣΛMBDG |    |"
 echo "     |___________________|" $kuning
 echo " Nota : $putih Com esta ferramenta, você"
 echo "         pode fazer o bot Whatsapp facilmente,"

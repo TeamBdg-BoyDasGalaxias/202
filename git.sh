@@ -4,7 +4,7 @@ hijau="\033[1;32m"
 putih="\033[1;37m"
 biru="\033[0;34m"
 kuning="\033[1;33m"
-paku="darkzin"
+paku="teambdg"
 until [ "$pass" = "$paku" ]
 do
 clear
@@ -23,7 +23,7 @@ echo "          |     $merah----- $putih   |"
 echo "           ==============" $merah
 echo "     ____________"
 echo " ___| Ferramenta By __| " $putih
-echo "|  Dark Yt__|"
+echo "|    Bdg  __|"
 echo "|__________| $merah"
 echo "                     _______________"
 echo "                    | Último login  |"
@@ -48,11 +48,11 @@ echo "          |     $merah----- $putih   |"
 echo "           ==============" $merah
 echo "     ____________"
 echo " ___| Ferramenta By __| " $putih
-echo "|  Dark Yt__|"
+echo "|    Bdg  __|"
 echo "|__________|"
 echo "$hijau"
 echo "     ______         ______"
-echo "    |      | Darkbot |      |"
+echo "    |      | ƬΣΛMBDG |      |"
 echo "     |___________________|" $kuning
 echo " Nota : $putih Com esta ferramenta, você"
 echo "         pode fazer o bot Whatsapp facilmente,"
@@ -71,17 +71,20 @@ echo "Por favor espere um momento....."
 sleep 4
 clear
 sleep 2
-echo "          $merah   instalando o darkbot"
+echo "          $merah   instalando o ƬΣΛMBDG"
 sleep 2
 cd $HOME
 pkg update && pkg upgrade
 pkg install git
 pkg install wget
-git clone https://github.com/TeamBdg-BoyDasGalaxias/h
-cd h
+git clone https://github.com/Darkksinh/kp
+cd kp
+pkg install unzip
 pkg install nodejs
 pkg inatall ffmpeg
 pkg install tesseract
+unzip w.zip
+cd w
 bash install.sh
 sleep 2
 echo ""

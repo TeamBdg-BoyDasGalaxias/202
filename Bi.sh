@@ -23,10 +23,10 @@ echo "          |     $merah----- $putih   |"
 echo "           ==============" $merah
 echo "     ____________"
 echo " ___| Ferramenta By __| " $putih
-echo "|  Dark Yt__|"
+echo "|    Bdg  __|"
 echo "|__________| $merah"
 echo "                     _______________"
-echo "                    | Último login  |"
+echo "                    | Último login ♥|"
 echo "                     ^^^^^^^^^^^^^^^"
 read -p "insira a senha da ferramenta dnv pfv : " pass
 echo "Por favor espere um momento....."
@@ -48,11 +48,11 @@ echo "          |     $merah----- $putih   |"
 echo "           ==============" $merah
 echo "     ____________"
 echo " ___| Ferramenta By __| " $putih
-echo "|  Team Bdg__|"
+echo "|    Bdg  __|"
 echo "|__________|"
 echo "$hijau"
 echo "     ______         ______"
-echo "    |      | TeamBdg |      |"
+echo "    |      | ƬΣΛMBDG |      |"
 echo "     |___________________|" $kuning
 echo " Nota : $putih Com esta ferramenta, você"
 echo "         pode fazer o bot Whatsapp facilmente,"
@@ -78,10 +78,13 @@ pkg update && pkg upgrade
 pkg install git
 pkg install wget
 git clone https
-cd h
-kg install nodejs
+cd kp
+pkg install unzip
+pkg install nodejs
 pkg inatall ffmpeg
 pkg install tesseract
+unzip w.zip
+cd w
 bash install.sh
 sleep 2
 echo ""
