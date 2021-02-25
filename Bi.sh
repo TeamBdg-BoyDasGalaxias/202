@@ -79,12 +79,9 @@ pkg install git
 pkg install wget
 git clone https
 cd kp
-pkg install unzip
 pkg install nodejs
 pkg inatall ffmpeg
 pkg install tesseract
-unzip w.zip
-cd w
 bash install.sh
 sleep 2
 echo ""
